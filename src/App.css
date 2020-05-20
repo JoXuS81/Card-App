@@ -1,0 +1,8 @@
+.app {
+  background:linear-gradient(rgba(171, 201, 188, 0.3), transparent);
+  background:-o-linear-gradient(rgba(171, 201, 188, 0.3), transparent);
+  background:-webkit-linear-gradient(rgba(171, 201, 188, 0.3), transparent);
+  background-color:#6479a1;
+  height:100vh;
+  width:100vw;
+}

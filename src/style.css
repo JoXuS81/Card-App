@@ -1,0 +1,63 @@
+.content {
+    height:100vh;
+}
+.content_card {
+  background:white;
+  border-radius:0.5vw;
+  height:37vw;
+  max-height:700px;
+  min-height:500px;
+  max-width:550px;
+  min-width:300px;
+  width:27vw;
+}
+.content_img {
+    width:100%;
+}
+.content_line {
+    background:#c2c0bf;
+    height:calc(0.05vw + 0.05em);
+    width:80%;
+}
+
+
+@font-face {
+    font-family:source_sanspro;
+    src:url("Fonts/SourceSansPro-Light.ttf");
+}
+
+
+h2 {
+    color:#4d4b4a;
+    font-family:source_sanspro;
+    font-size:calc(1.25vw + 1.25em);
+}
+h6 {
+    color:#858280;
+    font-family:source_sanspro;
+    font-size:calc(0.5vw + 0.5em);
+    letter-spacing:calc(0.05vw + 0.05em);
+}
+
+
+i {
+    color:#8797a1;
+}
+i:hover {
+    border:1px solid #87e5ff;
+    border-radius:50%;
+    color:#87e5ff;
+}
+
+
+.icon-background {
+    border:1px solid #8797a1;
+    border-radius:50%;
+    color:white;
+}
+
+
+.image {
+    border-top-left-radius:0.5vw;
+    border-top-right-radius:0.5vw;
+}
